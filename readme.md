@@ -7,5 +7,5 @@
 #### Separação das rotas
 
 ## API
-#### Usando a biblioteca 'express-async-errors' para o tratamento de erros assincronos não tratos pela API (Error 500).
+#### Usando a biblioteca 'express-async-errors' para o manipulação de erros assíncronos não tratados pela API (Error 500).
 
